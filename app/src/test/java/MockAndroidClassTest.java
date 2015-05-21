@@ -30,5 +30,3 @@ public class MockAndroidClassTest {
         assertThat(result, is(FAKE_STRING));
     }
 }
-
-
